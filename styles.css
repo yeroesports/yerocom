@@ -1,0 +1,52 @@
+body {
+    background-color: #0d161e;
+    font-family: 'League Spartan', sans-serif;
+}
+
+.logo {
+    height: 40px;
+    width: auto;
+    vertical-align: middle;
+  }
+  
+  .brand-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .yero {
+    color: #ecb845;
+  }
+  
+  .esports {
+    color: #edede5;
+  }
+
+  .nav-link {
+    color: #edede5 !important;
+  }
+
+  .nav-link.active {
+    background-color: #ecb845 !important;
+    color: #0d161e !important;
+    border-radius: 0.5rem;   
+    font-weight: bold;      
+  }
+
+  .nav-link:not(.active):hover {
+    color: #ecb845 !important;
+  }
+
+  .custom-footer-text {
+    color: #edede5;
+  }
+  
+  .facebook-icon {
+    color: #ecb845;
+    transition: color 0.3s;
+  }
+  
+  .facebook-icon:hover {
+    color: #edede5;
+  }
+  
